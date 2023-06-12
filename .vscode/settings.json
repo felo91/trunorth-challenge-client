@@ -1,0 +1,19 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#05351C",
+        "titleBar.activeBackground": "#074B27",
+        "titleBar.activeForeground": "#EFFEF6"
+    },
+    "editor.tabSize": 2,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": false,
+    "editor.insertSpaces": true,
+    "javascript.preferences.quoteStyle": "single",
+    "typescript.format.enable": true,
+    "typescript.format.semicolons": "insert",
+    "typescript.preferences.importModuleSpecifier": "relative",
+    "typescript.preferences.quoteStyle": "single",
+    "typescript.suggest.autoImports": true,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+}

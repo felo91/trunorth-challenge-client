@@ -1,0 +1,30 @@
+.records-table {
+    width: 100%;
+    overflow: auto;
+    margin: 20px 0;
+  }
+  
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .table th {
+    border-bottom: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  .table td {
+    border-bottom: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .pagination {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+  }
