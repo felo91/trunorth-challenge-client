@@ -59,7 +59,6 @@ The application makes requests to the following endpoints:
 - `soft delete user operation` - DELETE | {REACT_APP_API_URL}/dev/v1/record
 - `get all user operations` - GET | {REACT_APP_API_URL}/dev/v1/record
 - `get all operations` - GET | {REACT_APP_API_URL}/dev/v1/operation
-- `seed data` - POST | {REACT_APP_API_URL}/dev/seedData 
 
 Replace `{REACT_APP_API_URL}` with the actual API URL from your environment variable.
 
