@@ -6,7 +6,6 @@ import { NotificationManager } from 'react-notifications';
 import { Formik } from 'formik';
 import { Button, Form } from 'react-bootstrap';
 import './calculatorPage.css';
-import { IOperationRequest } from '../../interfaces/operation.interface';
 
 export type FetchBaseQueryError = {
   status: 'FETCH_ERROR';
